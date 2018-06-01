@@ -1,1 +1,15 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- _Coding Experience_
+  - code.org Accelerated Course
+  - Khan Academy Intro to JavaScript
+    - Snowman
+    - Captain America
+    - Fish Tank
+  - Scratch 
+    - Animate a Name
+    - Pong Game
+- _Languages_
+  - **JavaScript**
+  - **HTML**
+- _Future Projects Planned_
+  - Group Project with Whack-a-Mole
+  - International collaboration
