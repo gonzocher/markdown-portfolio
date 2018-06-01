@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# Cheri Haggard, Budding Coder or Coding Buddy #
