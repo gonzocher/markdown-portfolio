@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- Coding
+  - with kids
+  - on a group project
+- Family History
+- Biking
+  - an all women event
+  - when I'm in great shape
+  - riding fast
+  
